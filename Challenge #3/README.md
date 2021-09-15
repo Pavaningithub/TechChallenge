@@ -18,3 +18,6 @@ python .\getdata.py
 please enter key to query: a/b/c
 value = d
 ```
+
+## Limitation
+This script does not look for the values which are with in the array of objects.

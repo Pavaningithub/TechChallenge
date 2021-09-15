@@ -1,4 +1,4 @@
-# Challenge 2
+# Challenge 2 : Python : fetch the AWS EC2 instance meta-data
 This script will fetch the AWS EC2 instance meta-data.
 This has to be executed inside EC2 instance you do not need to use the Amazon EC2 console or the AWS CLI.  
 Reference : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html

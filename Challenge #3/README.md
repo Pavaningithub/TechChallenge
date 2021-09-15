@@ -1,4 +1,4 @@
-# Challenge 3
+# Challenge 3 : Python : return the value of nested JSON object
 This python script will return the value of nested JSON object, taking KEY as parameter while execution.
 The Script will read the JSON present in _jsonObject.json_ file present in the same Directory.
 > KEY has to be passed in the format: `a/b/c`

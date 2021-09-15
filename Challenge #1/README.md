@@ -2,10 +2,10 @@
 This Terraform code will create 3-tier application in AWS.
 
 ## Prerequisites
-Install Terraform
-Install the AWS CLI
-Sign up for an AWS Account
-Your preferred IDE
+* Install Terraform
+* Install the AWS CLI
+* Sign up for an AWS Account
+* Your preferred IDE
 
 ## Structure of the Code
 1. Modules:
